@@ -55,7 +55,7 @@ A pushbutton was used to represent the digital output of the rain sensor during 
 
 ### No Rain Detected
 
-![Dry Condition](simulation/dry_condition.png)
+![Dry Condition]([simulation/dry_condition.png](https://github.com/Proz3y/Automatic-Rain-Detection-System/blob/main/simulation/No%20rain.png))
 
 ### Rain Detected
 
