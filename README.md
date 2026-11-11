@@ -18,7 +18,7 @@ The project combines electronics, microcontroller programming, circuit simulatio
 
 ## Components Used
 
-- Arduino UNO R3 (intended hardware controller)
+- Intel Galileo Gen 2 (intended hardware controller)
 - Rain sensor module
 - Servo motor
 - Breadboard
@@ -47,19 +47,19 @@ The system was simulated using Wokwi.
 
 A pushbutton was used to represent the digital output of the rain sensor during simulation.
 
-**Wokwi Simulation:** Open the simulation here: https://wokwi.com/projects/480400767342791681
+**Wokwi Simulation:** [Open the simulation here](PASTE_YOUR_WOKWI_LINK_HERE)
 
 ### Simulation Circuit
 
-![Simulation Circuit]([[simulation/simulation_circuit.png](https://github.com/Proz3y/Automatic-Rain-Detection-System/blob/main/simulation/Circuit%20diagram.png)](https://github.com/Proz3y/Automatic-Rain-Detection-System/blob/main/simulation/Circuit%20diagram.png))
+![Simulation Circuit](simulation/simulation_circuit.png)
 
 ### No Rain Detected
 
-![Dry Condition]([simulation/dry_condition.png](https://github.com/Proz3y/Automatic-Rain-Detection-System/blob/main/simulation/No%20rain.png))
+![Dry Condition](simulation/dry_condition.png)
 
 ### Rain Detected
 
-![Rain Detected]([simulation/rain_detected.png](https://github.com/Proz3y/Automatic-Rain-Detection-System/blob/main/simulation/Rain%20detected.png))
+![Rain Detected](simulation/rain_detected.png)
 
 ## Hardware Implementation
 
@@ -80,17 +80,7 @@ Physical hardware verification is pending further inspection of the Intel Galile
 
 ## Hardware Components
 
-### Rain Sensor Module
-
-![Rain Sensor]([hardware/rain_sensor_module.jpg](https://www.google.com/aclk?sa=L&ai=DChsSEwiQ9uTmz4CYAxWDk1AGHYG9DfsYACICCAEQARoCZGc&co=1&ase=2&cid=CAAS3gHkaJuDU3Q3HHVHFWPharCddNa8ddKbpG7W0IsO9MMu8mQzCBbWiAbH5nWvOXJGFOJwPcHzbb8WQt-RvAVQ_i8tCFvYgAzgjcfSfbiv5D97fXGOBrcP2eyHIK0eNO8AnYauklcFgpWzLmk_5hIHjqaSbvUV78EOI2_RrYzN05pa53A_0XHb9fZRB_XoAaGPzwULCi7OyK0YCBb3etIVZI91qejxU6d6wmcHgiCvCCAPLgfM8pepzFun56XlRKHcjsqN7IqHl5ciGA8PHN6u9qRy2ovxACwf-tdctuKhqu8&cce=2&category=acrcp_v1_32&sig=AOD64_2QLV2z-kdF21Nr7KP6VmhhNXO4Vw&ctype=5&q=&nis=4&ved=2ahUKEwiA-t7mz4CYAxVcRZ8JHTzzMF4Q5bgDKAB6BAgHEAs&adurl=))
-
-### Servo Motor
-
-![Servo Motor](hardware/servo_motor.jpg)
-
-### Hardware Prototype
-
-![Prototype](hardware/prototype.jpg)
+Add photographs of the actual hardware components here.
 
 ## Testing and Results
 
