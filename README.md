@@ -47,19 +47,19 @@ The system was simulated using Wokwi.
 
 A pushbutton was used to represent the digital output of the rain sensor during simulation.
 
-**Wokwi Simulation:** [Open the simulation here](PASTE_YOUR_WOKWI_LINK_HERE)
+**Wokwi Simulation:** [Open the simulation here](https://wokwi.com/projects/480400767342791681)
 
 ### Simulation Circuit
 
-![Simulation Circuit](simulation/simulation_Circuit.png)
+![Simulation Circuit]
 
 ### No Rain Detected
 
-![Dry Condition](simulation/No Rain Detected.png)
+![Dry Condition]
 
 ### Rain Detected
 
-![Rain Detected](simulation/Rain_Detected.png)
+![Rain Detected]
 
 ## Hardware Implementation
 
@@ -78,10 +78,6 @@ Hardware connections:
 
 Physical hardware verification is pending further inspection of the Intel Galileo Gen 2 board.
 
-## Hardware Components
-
-Add photographs of the actual hardware components here.
-
 ## Testing and Results
 
 **Simulation:** Successfully demonstrated the sensor-input logic and servo response using a pushbutton as a simulated rain sensor output.
@@ -95,6 +91,3 @@ Add photographs of the actual hardware components here.
 - Conduct real-world rainfall testing.
 - Improve system reliability.
 
-## Author
-
-Electronics and embedded systems project.
