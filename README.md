@@ -51,7 +51,7 @@ A pushbutton was used to represent the digital output of the rain sensor during 
 
 ### Simulation Circuit
 
-![Simulation Circuit]
+![Simulation Circuit](./simulation/Simulation Circuit.png)
 
 ### No Rain Detected
 
