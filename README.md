@@ -51,15 +51,15 @@ A pushbutton was used to represent the digital output of the rain sensor during 
 
 ### Simulation Circuit
 
-![Simulation Circuit](./simulation/Simulation Circuit.png)
+![Simulation Circuit](./simulation/Simulation_Circuit.png)
 
 ### No Rain Detected
 
-![Dry Condition]
+![Dry Condition](./simulation/No_Rain_Detected.png)
 
 ### Rain Detected
 
-![Rain Detected]
+![Rain Detected](./simulation/Rain_Detected.png)
 
 ## Hardware Implementation
 
@@ -78,6 +78,10 @@ Hardware connections:
 
 Physical hardware verification is pending further inspection of the Intel Galileo Gen 2 board.
 
+## Hardware Components
+
+Add photographs of the actual hardware components here.
+
 ## Testing and Results
 
 **Simulation:** Successfully demonstrated the sensor-input logic and servo response using a pushbutton as a simulated rain sensor output.
@@ -91,3 +95,6 @@ Physical hardware verification is pending further inspection of the Intel Galile
 - Conduct real-world rainfall testing.
 - Improve system reliability.
 
+## Author
+
+Electronics and embedded systems project.
