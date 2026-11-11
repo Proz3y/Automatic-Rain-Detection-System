@@ -1,30 +1,45 @@
 #include <Servo.h>
 
+Servo clothesline;
+
 const int rainSensor = 7;
 const int servoPin = 6;
 
-Servo rainServo;
+int currentPosition = 0;
+int previousRainState = HIGH;
 
 void setup() {
   pinMode(rainSensor, INPUT_PULLUP);
 
-  rainServo.attach(servoPin);
-  rainServo.write(0);
+  clothesline.attach(servoPin);
+  clothesline.write(0);
 
   Serial.begin(9600);
+  Serial.println("SYSTEM READY - NO RAIN");
 }
 
 void loop() {
   int rainState = digitalRead(rainSensor);
 
-  if (rainState == LOW) {
-    Serial.println("RAIN DETECTED");
-    rainServo.write(90);
-  } 
-  else {
-    Serial.println("NO RAIN");
-    rainServo.write(0);
+  if (rainState != previousRainState) {
+    if (rainState == LOW) {
+      Serial.println("RAIN DETECTED - MOVING CLOTHES UNDER SHELTER");
+    } else {
+      Serial.println("NO RAIN - RETURNING CLOTHESLINE");
+    }
+
+    previousRainState = rainState;
   }
 
-  delay(200);
+  int targetPosition = (rainState == LOW) ? 90 : 0;
+
+  if (currentPosition < targetPosition) {
+    currentPosition++;
+  } else if (currentPosition > targetPosition) {
+    currentPosition--;
+  }
+
+  clothesline.write(currentPosition);
+
+  delay(20);
 }
