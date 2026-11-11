@@ -59,7 +59,7 @@ A pushbutton was used to represent the digital output of the rain sensor during 
 
 ### Rain Detected
 
-![Rain Detected](simulation/rain_detected.png)
+![Rain Detected]([simulation/rain_detected.png](https://github.com/Proz3y/Automatic-Rain-Detection-System/blob/main/simulation/Rain%20detected.png))
 
 ## Hardware Implementation
 
