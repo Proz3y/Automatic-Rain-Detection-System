@@ -51,7 +51,7 @@ A pushbutton was used to represent the digital output of the rain sensor during 
 
 ### Simulation Circuit
 
-![Simulation Circuit]([simulation/simulation_circuit.png](https://github.com/Proz3y/Automatic-Rain-Detection-System/blob/main/simulation/Circuit%20diagram.png))
+![Simulation Circuit]([[simulation/simulation_circuit.png](https://github.com/Proz3y/Automatic-Rain-Detection-System/blob/main/simulation/Circuit%20diagram.png)](https://github.com/Proz3y/Automatic-Rain-Detection-System/blob/main/simulation/Circuit%20diagram.png))
 
 ### No Rain Detected
 
