@@ -78,9 +78,6 @@ Hardware connections:
 
 Physical hardware verification is pending further inspection of the Intel Galileo Gen 2 board.
 
-## Hardware Components
-
-Add photographs of the actual hardware components here.
 
 ## Testing and Results
 
@@ -95,6 +92,4 @@ Add photographs of the actual hardware components here.
 - Conduct real-world rainfall testing.
 - Improve system reliability.
 
-## Author
 
-Electronics and embedded systems project.
