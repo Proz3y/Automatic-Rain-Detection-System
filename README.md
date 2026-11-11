@@ -80,7 +80,17 @@ Physical hardware verification is pending further inspection of the Intel Galile
 
 ## Hardware Components
 
-Add photographs of the actual hardware components here.
+### Rain Sensor Module
+
+![Rain Sensor]([hardware/rain_sensor_module.jpg](https://www.google.com/aclk?sa=L&ai=DChsSEwiQ9uTmz4CYAxWDk1AGHYG9DfsYACICCAEQARoCZGc&co=1&ase=2&cid=CAAS3gHkaJuDU3Q3HHVHFWPharCddNa8ddKbpG7W0IsO9MMu8mQzCBbWiAbH5nWvOXJGFOJwPcHzbb8WQt-RvAVQ_i8tCFvYgAzgjcfSfbiv5D97fXGOBrcP2eyHIK0eNO8AnYauklcFgpWzLmk_5hIHjqaSbvUV78EOI2_RrYzN05pa53A_0XHb9fZRB_XoAaGPzwULCi7OyK0YCBb3etIVZI91qejxU6d6wmcHgiCvCCAPLgfM8pepzFun56XlRKHcjsqN7IqHl5ciGA8PHN6u9qRy2ovxACwf-tdctuKhqu8&cce=2&category=acrcp_v1_32&sig=AOD64_2QLV2z-kdF21Nr7KP6VmhhNXO4Vw&ctype=5&q=&nis=4&ved=2ahUKEwiA-t7mz4CYAxVcRZ8JHTzzMF4Q5bgDKAB6BAgHEAs&adurl=))
+
+### Servo Motor
+
+![Servo Motor](hardware/servo_motor.jpg)
+
+### Hardware Prototype
+
+![Prototype](hardware/prototype.jpg)
 
 ## Testing and Results
 
