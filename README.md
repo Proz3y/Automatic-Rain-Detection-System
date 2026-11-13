@@ -51,15 +51,15 @@ A pushbutton was used to represent the digital output of the rain sensor during 
 
 ### Simulation Circuit
 
-![Simulation Circuit](./simulation/Simulation_Circuit.png)
+<img width="921" height="547" alt="Simulation Circuit" src="https://github.com/user-attachments/assets/798b2192-ab5f-4f07-954d-0ff70c3316ea" />
 
 ### No Rain Detected
 
-![Dry Condition](./simulation/No_Rain_Detected.png)
+<img width="1177" height="753" alt="No Rain Detected" src="https://github.com/user-attachments/assets/6bdb6ee8-4273-41c7-bed7-70236f14a1c1" />
 
 ### Rain Detected
 
-![Rain Detected](./simulation/Rain_Detected.png)
+<img width="1252" height="727" alt="Rain Detected" src="https://github.com/user-attachments/assets/aa5417ef-3031-4ffd-ba94-22afc5a12aa0" />
 
 ## Hardware Implementation
 
@@ -78,6 +78,27 @@ Hardware connections:
 
 Physical hardware verification is pending further inspection of the Intel Galileo Gen 2 board.
 
+## Hardware Components
+Arduino Uno R3
+
+<img width="232" height="264" alt="Arduino UNO" src="https://github.com/user-attachments/assets/bc485861-a85d-475d-aaec-84aab558d309" />
+
+Micro servo motor
+
+<img width="554" height="554" alt="Micro servo motor" src="https://github.com/user-attachments/assets/8223507a-dc74-4e31-a9af-c73fa67e5cc1" />
+
+Rain drop sensor module
+
+<img width="445" height="449" alt="Rain Drop Sensor Module" src="https://github.com/user-attachments/assets/f789935b-2277-4c26-a756-4f14289ba5b3" />
+
+Jumper wires
+
+<img width="558" height="549" alt="M-M Jumper wires" src="https://github.com/user-attachments/assets/3fba02dc-01ff-4f4b-a41d-18c6c3385f9f" />
+<img width="447" height="447" alt="M-F Jumper wires" src="https://github.com/user-attachments/assets/1bca9c05-8c93-4d17-afd7-acc50ce3f124" />
+
+Breadboard
+
+<img width="351" height="347" alt="Breadboard" src="https://github.com/user-attachments/assets/70bce28c-b264-4093-b0c9-3f6388e14d3d" />
 
 ## Testing and Results
 
