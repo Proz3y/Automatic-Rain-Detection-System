@@ -18,7 +18,7 @@ The project combines electronics, microcontroller programming, circuit simulatio
 
 ## Components Used
 
-- Intel Galileo Gen 2 (intended hardware controller)
+- Arduino Uno R3 (intended hardware controller)
 - Rain sensor module
 - Servo motor
 - Breadboard
